@@ -1,0 +1,1 @@
+# vue-spa-static-file-serve-az-function
