@@ -55,22 +55,3 @@ export async function serve_static(request: HttpRequest, context: InvocationCont
 }
 
 
-
-app.http('favicon', {
-    route: 'favicon.ico',
-    methods: ['GET'],
-    authLevel: 'anonymous',
-    handler: serve_static
-});
-app.http('assets', {
-    route: 'assets/{asset}',
-    methods: ['GET'],
-    authLevel: 'anonymous',
-    handler: serve_static
-});
-app.http('serve_static', {
-    route: 'home',
-    methods: ['GET', 'POST'],
-    authLevel: 'anonymous',
-    handler: serve_static
-});
