@@ -1,0 +1,168 @@
+[
+    {
+        "folder": "frontend",
+        "folderSha": "e8a6424d59be70d277b87942b38659e597a76bab",
+        "tree": [
+            {
+                "path": ".eslintrc.cjs",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "6f40582dda70241afd3bbd38da6853278bef4aaf",
+                "size": 333,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/6f40582dda70241afd3bbd38da6853278bef4aaf"
+            },
+            {
+                "path": ".gitignore",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "8ee54e8d343e466a213c8c30aa04be77126b170d",
+                "size": 317,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/8ee54e8d343e466a213c8c30aa04be77126b170d"
+            },
+            {
+                "path": ".prettierrc.json",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "66e23359c3dabfe3929b4e2fa049c41037afb15f",
+                "size": 163,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/66e23359c3dabfe3929b4e2fa049c41037afb15f"
+            },
+            {
+                "path": ".vscode",
+                "mode": "040000",
+                "type": "tree",
+                "sha": "cde6820a4f04f99e2e0f5e4cae0775a83ecca228",
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/trees/cde6820a4f04f99e2e0f5e4cae0775a83ecca228"
+            },
+            {
+                "path": "README.md",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "9b4c74cc37ef5641c65089fb6e57179ee91317af",
+                "size": 925,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/9b4c74cc37ef5641c65089fb6e57179ee91317af"
+            },
+            {
+                "path": "env.d.ts",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+                "size": 38,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32"
+            },
+            {
+                "path": "index.html",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "1c0f4535fbaaa02d9a48b1cbb66ae5fd4712a2f8",
+                "size": 322,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/1c0f4535fbaaa02d9a48b1cbb66ae5fd4712a2f8"
+            },
+            {
+                "path": "package-lock.json",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "f891765eb81f4099d3e9d6801b1357c5032b6cfe",
+                "size": 149393,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/f891765eb81f4099d3e9d6801b1357c5032b6cfe"
+            },
+            {
+                "path": "package.json",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "d468e13d01ebb90036ec2e9358f16d456e3ac50b",
+                "size": 1142,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/d468e13d01ebb90036ec2e9358f16d456e3ac50b"
+            },
+            {
+                "path": "postcss.config.js",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "2e7af2b7f1a6f391da1631d93968a9d487ba977d",
+                "size": 80,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/2e7af2b7f1a6f391da1631d93968a9d487ba977d"
+            },
+            {
+                "path": "public",
+                "mode": "040000",
+                "type": "tree",
+                "sha": "eefb44c5a56979113e5c34213a9c9388f006790d",
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/trees/eefb44c5a56979113e5c34213a9c9388f006790d"
+            },
+            {
+                "path": "src",
+                "mode": "040000",
+                "type": "tree",
+                "sha": "930867522ed0a411c83e3c3f860c0da6c1030560",
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/trees/930867522ed0a411c83e3c3f860c0da6c1030560"
+            },
+            {
+                "path": "tailwind.config.js",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "bc9e5b475803e8c6e3b80b1c6e91e23b4a3edfda",
+                "size": 187,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/bc9e5b475803e8c6e3b80b1c6e91e23b4a3edfda"
+            },
+            {
+                "path": "tsconfig.app.json",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "db4bf175b5cb8c605dcb21ac84733cee4dbd220b",
+                "size": 331,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/db4bf175b5cb8c605dcb21ac84733cee4dbd220b"
+            },
+            {
+                "path": "tsconfig.json",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "66b5e5703e83c352671ce094731e9e861ada6924",
+                "size": 139,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/66b5e5703e83c352671ce094731e9e861ada6924"
+            },
+            {
+                "path": "tsconfig.node.json",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "8512800e2df5ed232b284392cb584527c602af86",
+                "size": 434,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/8512800e2df5ed232b284392cb584527c602af86"
+            },
+            {
+                "path": "vite.config.ts",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "19a4c3a86daa36a25a72b7f759ebb67c077d7ae7",
+                "size": 414,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/19a4c3a86daa36a25a72b7f759ebb67c077d7ae7"
+            }
+        ]
+    },
+    {
+        "folder": "public",
+        "folderSha": "eefb44c5a56979113e5c34213a9c9388f006790d",
+        "tree": [
+            {
+                "path": "api",
+                "mode": "040000",
+                "type": "tree",
+                "sha": "58599870745eba388fc97d64b5824085feb3c321",
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/trees/58599870745eba388fc97d64b5824085feb3c321"
+            }
+        ]
+    },
+    {
+        "folder": "api",
+        "folderSha": "58599870745eba388fc97d64b5824085feb3c321",
+        "tree": [
+            {
+                "path": "favicon.ico",
+                "mode": "100644",
+                "type": "blob",
+                "sha": "df36fcfb72584e00488330b560ebcf34a41c64c2",
+                "size": 4286,
+                "url": "https://api.github.com/repos/fractiunate-az/devops-sushi-func/git/blobs/df36fcfb72584e00488330b560ebcf34a41c64c2"
+            }
+        ]
+    }
+]

@@ -22,7 +22,7 @@ app.http("timeline", {
 
 app.http("post_create", {
     route: "post/create/{postId}",
-    methods: ["POST}"],
+    methods: ["POST"],
     authLevel: "anonymous",
     handler: api,
 });
